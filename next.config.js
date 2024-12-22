@@ -5,13 +5,15 @@ const nextConfig = {
   },
   images: {
     domains: [
-      'res.cloudinary.com', 
-      'avatars.githubusercontent.com',
-      'lh3.googleusercontent.com',
+      "www.planetware.com",
+      "res.cloudinary.com",
+      "avatars.githubusercontent.com",
+      "lh3.googleusercontent.com",
       "loremflickr.com",
-      "images.unsplash.com"
-    ]
-  }
-}
+      "images.unsplash.com",
+      "images.pexels.com",
+    ],
+  },
+};
 
 module.exports = nextConfig
